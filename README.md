@@ -24,4 +24,8 @@ Open termial and locate the downloaded file (*Scheduler*) and run command - *./S
 ## Contributing guidelines
 [Contributing to Scheduler][contri]
 
+<<<<<<< HEAD
 [contri]: /contributing.md
+=======
+[contri]: /Contributing.md
+>>>>>>> 3359378fd54a992581dd0fa15dd65710e825a63b
