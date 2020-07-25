@@ -21,7 +21,11 @@ Launch the application from the start menu or from the folder that you have chos
 [Download](https://github.com/adityagpramanik/Scheduler/raw/master/Linux-Build/Scheduler) the stand alone application **Scheduler** from the Linux-Build.
 Open termial and locate the downloaded file (*Scheduler*) and run command - *./Scheduler* from the terminal.
 
-## Contributing guidelines
-[Contributing to Scheduler][contri]
+## Contributing Guidelines
+Follow the contributing guidelines from [this][contri]
+
+## How to Contribute
+Start contributing to Scheduler by following [this][howto]
 
 [contri]: /Contributing.md
+[howto]: /HowToContri.md
