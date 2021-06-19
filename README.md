@@ -18,7 +18,7 @@ This project contains two source files :
 Launch the application from the start menu or from the folder that you have chosen at the time of installation.
 
 ## Installation Guide (Linux)
-(https://github.com/adityagpramanik/Scheduler/raw/master/Linux-Build/Scheduler) the stand alone application **Scheduler** from the Linux-Build.
+[Download](https://github.com/adityagpramanik/Scheduler/raw/master/Linux-Build/Scheduler) the stand alone application **Scheduler** from the Linux-Build.
 Open termial and locate the downloaded file (*Scheduler*) and run command - *./Scheduler* from the terminal.
 
 ## Contributing Guidelines
