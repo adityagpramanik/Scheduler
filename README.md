@@ -22,10 +22,10 @@ Launch the application from the start menu or from the folder that you have chos
 Open termial and locate the downloaded file (*Scheduler*) and run command - *./Scheduler* from the terminal.
 
 ## Contributing Guidelines
-Follow the contributing guidelines from [this][contri]
+Follow the contributing guidelines from [this][howto]
 
 ## How to Contribute
-Start contributing to Scheduler by following [this][howto]
+Start contributing to Scheduler by following [this][contri]
 
 [contri]: /Contributing.md
 [howto]: /HowToContri.md
