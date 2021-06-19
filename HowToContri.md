@@ -30,19 +30,21 @@ You can do so by using the built-in option provided in any IDE like **Atom** or 
 
 *or*
 
-You can run the following code to create a Branch
+You can run the following command to create a Branch
 ```shell
 git checkout -b name_of_your_new_branch
 ```
 
-You can also see all the branches created so far by running:
+You can also see all the branches created so far by running the below command :
 ```shell
 git branch -a
 ```
 
 ## <a name="make"></a> Make Changes
 You can use any IDE/Text Editor which supports **git & GitHub** functionality, such as **Atom, VS Code etc**.
-Make changes to any file or add new file in the repo and then stage them with the editor or by running:
+Make changes to any file or add new file in the repo and then stage them with the editor. or by running the command in shell:
+
+
 ```shell
 git add file_name
 ```
